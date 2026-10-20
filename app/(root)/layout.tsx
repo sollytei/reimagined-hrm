@@ -1,6 +1,6 @@
 import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
-import './globals.css'
+import '../globals.css'
 import { Geist } from "next/font/google";
 import { cn } from "@/lib/utils";
 
